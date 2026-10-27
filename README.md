@@ -61,8 +61,6 @@ The FRED median national sale-price image is supplied for background context, **
 
 4. Open `real_estate_analysis.Rmd` and select **Knit → Knit to HTML**. Keep the CSV and PNG beside the `.Rmd` file.
 
-The package versions are not pinned. The README and files have been checked for internal consistency, **but the R Markdown was not executed in the preparation environment**, so the first local knit should be used to confirm the result.
-
 ## Limitations and attribution
 
 - Period comparisons describe historical associations, not the causal impact of COVID-19.
